@@ -4,8 +4,8 @@ require File.expand_path('../lib/omniauth-pocket/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Greg Leppert"]
   gem.email         = ["greg@leppert.me"]
-  gem.description   = "Omniauth Strategy for Pocket"
-  gem.summary       = "Omniauth Strategy for Pocket"
+  gem.description   = "An Omniauth Strategy for Pocket"
+  gem.summary       = "An Omniauth Strategy for Pocket"
   gem.homepage      = "https://github.com/leppert/omniauth-pocket"
 
   gem.files         = `git ls-files`.split($\)
